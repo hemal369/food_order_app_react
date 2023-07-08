@@ -1,1 +1,3 @@
-# food_order_app_react
+# Food order app
+
+web application made in React and google Firebase as database.
